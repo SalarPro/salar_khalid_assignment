@@ -1,9 +1,6 @@
-# salarkhalid
+# salar khalid
 
-Project For assignment
-Salar Pro
-
-Find this [project on Dribbble](https://dribbble.com/shots/3845707-Gravity-Slider)
+# Project For assignment
 
 ![Product Name Screen Shot](https://github.com/SalarPro/salar_khalid_assignment/blob/main/assets/images/demo.png)
 
