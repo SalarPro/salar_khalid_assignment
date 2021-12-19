@@ -2,7 +2,7 @@
 
 # Project For assignment
 
-![Product Name Screen Shot](https://github.com/SalarPro/salar_khalid_assignment/blob/main/assets/images/demo.png)
+![Product Name Screen Shot](https://github.com/SalarPro/salar_khalid_assignment/blob/main/assets/images/demo1.png)
 
 ## Getting Started
 
